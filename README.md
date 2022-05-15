@@ -4,9 +4,6 @@
 
 ## Welcome! 👋
 
-Thanks for checking out this front-end coding challenge.
-
-[Frontend Mentor](https://www.frontendmentor.io) challenges allow you to improve your skills in a real-life workflow.
 
 **To do this challenge, you need a basic understanding of HTML, CSS and JavaScript.**
 
@@ -25,7 +22,6 @@ Your users should be able to:
 - Receive an error message when the `form` is submitted if:
   - The `input` field is empty
 
-Want some support on the challenge? [Join our Slack community](https://www.frontendmentor.io/slack) and ask questions in the **#help** channel.
 
 ## Where to find everything
 
